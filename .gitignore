@@ -8,3 +8,7 @@ src-gen/
 xtend-gen/
 .DS_Store
 
+.settings/
+.project
+.classpath
+.antlr-generator-3.2.0-patch.jar

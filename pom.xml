@@ -9,11 +9,11 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>../my.mavenized.herolanguage</module>
-		<module>../my.mavenized.herolanguage.ui</module>
-		<module>../my.mavenized.herolanguage.tests</module>
-		<module>../my.mavenized.herolanguage.sdk</module>
-		<module>../my.mavenized.herolanguage.updatesite</module>
+		<module>my.mavenized.herolanguage</module>
+		<module>my.mavenized.herolanguage.ui</module>
+		<module>my.mavenized.herolanguage.tests</module>
+		<module>my.mavenized.herolanguage.sdk</module>
+		<module>my.mavenized.herolanguage.updatesite</module>
 	</modules>
 
 	<properties>
